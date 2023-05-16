@@ -11,6 +11,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
+
 ## Introduction
 This repository contains the code implementation of the Routing Information Protocol (RIP) using Python. The RIP implementation consists of classes and functions that simulate the exchange of routing information between routers in a network.
 
